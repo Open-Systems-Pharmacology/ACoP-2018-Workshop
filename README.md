@@ -20,7 +20,7 @@ The workshop is currently restricted to 40 participants.
 
 ## AGENDA
 
-As a use-case for above learnings, we will develop a PB-QSP model for naked antibody pre-treatment for ADC treatment of tumor growth, in detail:
+As a use-case for above learnings, we will develop a PB-QSP model for naked antibody (nAb) pre-treatment for antibody-drug conjugates (ADC) treatment of tumor growth, in detail:
 
 | Time (Saturday, October 6th) | Topic |
 | ------------- | ------------- |
@@ -35,7 +35,7 @@ As a use-case for above learnings, we will develop a PB-QSP model for naked anti
 | 13:00 | **Hands-On** (with Intro): Model extension: Tumor |
 | 13:30 | **Hands-On** (with Intro): Creating reactions |
 | 14:00 | **Hands-On** (with Intro): Tumor growth modeling |
-| 14:30 | **Hands-On** (with Intro): nAB / ADC tumor treatment (PD-Effect) |
+| 14:30 | **Hands-On** (with Intro): nAb / ADC tumor treatment (PD-Effect) |
 | 15:00 | **Coffee Break** |
 | 15:15 | **Hands-On** (with Intro): Running (parallel) simulations with the OSPS R-Toolbox in R |
 | 16:00 | Lecture: Complex PB-QSP models: The Diabetes Platform |
