@@ -2,7 +2,7 @@
 
 ## PK-Sim® &amp; MoBi® (OSPS®) workshop on integrating PBPK with QSP
 
-esqLABS is running a one-day hands-on **PK-Sim® & MoBi®** workshop on **integrating PBPK with QSP** on **Saturday October 6, 2018** at the Loews Coronado Bay Resort near **San Diego**, CA, **United States** (For details on the workshop venue see [ACoP9 registration site](http://www.acop7.org/)). The workshop covers the concepts and application of combining PK-Sim, MoBi and R to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
+esqLABS is running a one-day hands-on **PK-Sim® & MoBi®** workshop on **integrating PBPK with QSP** on **Saturday October 6, 2018** at the Loews Coronado Bay Resort near **San Diego**, CA, **United States** (For details on the workshop venue see [ACoP9 registration site](http://www.go-acop.org/acop9-registration). The workshop covers the concepts and application of combining PK-Sim, MoBi and R to build your very own digital platforms for the prediction of clinical trial outcomes by leveraging physiological and mechanistic knowledge to translate early in-vitro and preclinical outcomes to the clinic. During hands-on exercises you will learn how to:
 
 - [x] Build a PBPK model in PK-Sim and compare to observed data
 - [x] Integrate mechanism-based pharmacodynamics in MoBi
@@ -14,7 +14,7 @@ While the workshop does not require any prior experience with PK-Sim® & MoBi®,
 
 **Cost**: 700 USD. We offer a reduced price of 350 USD for academics & non-profit organization employees to cover breakfast, lunch and coffee breaks. 
 
-**REGISTRATION**: You will register via the [ACoP9 registration site](http://www.acop7.org/). For more information on the workshop, please email Stephan on workshop@esqLABS.com. We will update this site with more details on the workshop in due time.
+**REGISTRATION**: You will register via the [ACoP9 registration site](http://www.go-acop.org/acop9-registration). For more information on the workshop, please email Stephan on workshop@esqLABS.com. We will update this site with more details on the workshop in due time.
 
 The workshop is currently restricted to 40 participants.
 
