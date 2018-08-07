@@ -14,7 +14,13 @@ While the workshop does not require any prior experience with PK-Sim® & MoBi®,
 
 **Cost**: 700 USD. We offer a reduced price of 350 USD for academics & non-profit organization employees to cover breakfast, lunch and coffee breaks. 
 
-**REGISTRATION**: You will register via the [ACoP9 registration site](http://www.go-acop.org/acop9-registration). For more information on the workshop, please email Stephan on workshop@esqLABS.com. We will update this site with more details on the workshop in due time.
+## REGISTRATION
+
+You will register via the [ACoP9 registration site](http://www.go-acop.org/acop9-registration). In case of questions, please email Stephan on workshop@esqLABS.com.
+
+**NOTICE**: due to popular demand, registration for ACoP9 is **FULL**.  Registration for ACoP9 is closed!!
+
+**TO REGISTER FOR THE WORKSHOP, PLEASE WRITE AN EMAIL TO: connect@go-isop.org !**
 
 The workshop is currently restricted to 40 participants.
 
